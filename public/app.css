@@ -1,0 +1,10 @@
+
+article{
+  width :600px;
+  margin :auto
+}
+article + article{
+  border-top: 1px solid gray;
+  margin-top: 40px;
+}
+
